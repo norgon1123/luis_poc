@@ -42,4 +42,4 @@ function getLuisIntent(utterance) {
 }
 
 // Pass an utterance to the sample LUIS app
-getLuisIntent('turn on the left light');
+getLuisIntent('what are the available hotels');
